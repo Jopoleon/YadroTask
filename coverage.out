@@ -1,0 +1,8 @@
+mode: set
+github.com/Jopoleon/YadroTask/main.go:10.13,13.2 2 0
+github.com/Jopoleon/YadroTask/main.go:17.36,20.16 3 1
+github.com/Jopoleon/YadroTask/main.go:25.2,25.17 1 1
+github.com/Jopoleon/YadroTask/main.go:20.16,23.3 2 0
+github.com/Jopoleon/YadroTask/main.go:28.62,30.16 2 0
+github.com/Jopoleon/YadroTask/main.go:34.2,34.14 1 0
+github.com/Jopoleon/YadroTask/main.go:30.16,33.3 2 0
